@@ -18,3 +18,8 @@ This project covers:
 12. Two-factor models and the HJM model
 13. LIBOR market models
 14. Bermudan and exotic interest rate derivatives 
+
+Each chapter contains:
+
+1. Python code
+2. Brief notes that accompany, and allow for minimal reproducibility of the Python code written.

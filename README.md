@@ -1,7 +1,5 @@
 # Derivatives Modelling in Python
 
-Largely adapted from Justin London's Modelling Derivatives in C++ (2005). 
-
 This project covers:
 
 1. Black-Scholes and derivatives pricing fundamentals
@@ -23,3 +21,5 @@ Each chapter contains:
 
 1. Python code
 2. Brief notes that accompany, and allow for minimal reproducibility of the Python code written.
+
+Largely adapted from Justin London's Modelling Derivatives in C++ (2005). 
